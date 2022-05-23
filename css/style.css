@@ -312,6 +312,7 @@ a {
     top: 0;
     left: 0;
     margin-top: 20px;
+    margin-bottom: 20px;
     /* box-shadow: 15px 0px 8px 10px #6cbbff; */
     box-shadow: inset 5px 0px 57px 0px #fff;
     opacity: 0.3;
